@@ -3,7 +3,7 @@
   <div class="max-w-7xl mx-auto px-4 sm:px-6">
     <div class="flex justify-between items-center py-4 md:justify-start md:space-x-10">
       <div class="flex justify-start lg:w-0 lg:flex-1">
-          <img src="https://www.jexactyl.com/assets/images/logo.png" width="32" height="32" />
+          <img src="@/static/images/logo.png" width="32" height="32" />
           <p class="font-bold text-xl ml-1 text-pink-300">Jexactyl</p>
       </div>
       <nav class="flex space-x-5 md:space-x-10">
