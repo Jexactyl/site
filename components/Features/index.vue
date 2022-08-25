@@ -1,7 +1,7 @@
 <template>
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-10">
     <div class="lg:text-center">
-      <p class="mt-2 text-3xl text-pink-300 font-extrabold tracking-tight sm:text-4xl">Full of features and functions to make your users rejoice.</p>
+      <p class="mt-2 text-3xl text-green-300 font-extrabold tracking-tight sm:text-4xl">Full of features and functions to make your users rejoice.</p>
       <p class="mt-4 max-w-3xl text-xl text-gray-500 lg:mx-auto">
         Jexactyl is an open-source, feature-rich panel built on <a href="https://pterodactyl.io">Pterodactyl</a> which offers many
         features which make running your next game server easier.
@@ -12,7 +12,7 @@
 
         <div class="relative">
           <dt>
-            <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-pink-300">
+            <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-green-300">
               <fa-icon icon="fa-cog" class="w-6 h-6" />
             </div>
             <p class="ml-16 text-lg font-semibold text-white">
@@ -27,7 +27,7 @@
 
         <div class="relative">
           <dt>
-            <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-pink-300">
+            <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-green-300">
               <fa-icon icon="fa-cubes" class="w-6 h-6" />
             </div>
             <p class="ml-16 text-lg font-semibold text-white">Designed for Minecraft and much, much more.</p>
@@ -40,7 +40,7 @@
 
         <div class="relative">
           <dt>
-            <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-pink-300">
+            <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-green-300">
               <fa-icon icon="fa-code-commit" class="w-6 h-6" />
             </div>
             <p class="ml-16 text-lg font-semibold text-white">Open and transparent, down to the core.</p>
@@ -53,7 +53,7 @@
 
         <div class="relative">
           <dt>
-            <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-pink-300">
+            <div class="absolute flex items-center justify-center h-12 w-12 rounded-md bg-green-300">
               <fa-icon icon="fa-desktop" class="w-6 h-6" />
             </div>
             <p class="ml-16 text-lg font-semibold text-white">Functional, yet also beautiful.</p>
